@@ -1,0 +1,15 @@
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\bin\Debug\net6.0\HalkBank.Collection.exe
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\bin\Debug\net6.0\HalkBank.Collection.deps.json
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\bin\Debug\net6.0\HalkBank.Collection.runtimeconfig.json
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\bin\Debug\net6.0\HalkBank.Collection.dll
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\bin\Debug\net6.0\HalkBank.Collection.pdb
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.csproj.AssemblyReference.cache
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.AssemblyInfoInputs.cache
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.AssemblyInfo.cs
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.csproj.CoreCompileInputs.cache
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.dll
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\refint\HalkBank.Collection.dll
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.pdb
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\HalkBank.Collection.genruntimeconfig.cache
+Z:\C#Eğitim\HalkBankListOdev\HalkBankDemo\HalkBankList.Collection\obj\Debug\net6.0\ref\HalkBank.Collection.dll
